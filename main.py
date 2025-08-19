@@ -421,7 +421,7 @@ def get_force_sub_buttons():
         [InlineKeyboardButton("🔄 Refresh", callback_data="check_sub")]
     ])
 
-WELCOME_MSG = """🎯 **ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ Ganesh ᴛᴇꜱᴛ ꜱᴇʀɪᴇꜱ ʙᴏᴛ!**
+WELCOME_MSG = """🎯 **ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ MJ TEAM❤️ ᴛᴇꜱᴛ ꜱᴇʀɪᴇꜱ ʙᴏᴛ!**
 
 📚 ᴇxᴛʀᴀᴄᴛ ᴛᴇꜱᴛ ꜱᴇʀɪᴇꜱ ꜰʀᴏᴍ ᴀɴʏ ᴀᴘᴘx ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ.
 
@@ -442,7 +442,7 @@ WELCOME_MSG = """🎯 **ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ Ganesh ᴛᴇꜱᴛ
 2️⃣ ꜱᴇɴᴅ ᴡᴇʙꜱɪᴛᴇ ᴜʀʟ (ᴇx: parmaracademy.com)
 3️⃣ ꜱᴇʟᴇᴄᴛ ᴛᴇꜱᴛ ꜱᴇʀɪᴇꜱ & ᴅᴏᴡɴʟᴏᴀᴅ!
 
-🤖 ᴍᴀᴅᴇ ʙʏ https://t.me/ganesh_info"""
+🤖 ᴍᴀᴅᴇ ʙʏ https://t.me/allcourse502bot"""
 
 HELP_MSG = """📚 **ᴋᴇꜱᴇ ᴜꜱᴇ ᴋᴀʀᴇ?**
 
